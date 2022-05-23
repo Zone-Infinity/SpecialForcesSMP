@@ -1,0 +1,9 @@
+name: SpecialForces
+version: '${project.version}'
+main: me.isoham.smp.specialforces.SpecialForces
+api-version: 1.18
+authors: [ iSoham ]
+description: Essentials for friends' smp
+commands:
+  showitem:
+    description: Shows the item in your hand to everyone
